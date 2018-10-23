@@ -1,0 +1,45 @@
+Forking and syncing a repo
+
+
+Instructions adapted from these pages:
+Forking a repo: https://help.github.com/articles/fork-a-repo/
+Syncing a fork: https://help.github.com/articles/syncing-a-fork/
+
+Say you're collaborating on a large project with a team of coders -- you're maintaining a codebase on Github for the code you've written together, but you'd like to tinker with the codebase on your own time without affecting that group's work. What do you do? 
+
+Why, you fork the repo! Per Github: 'A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.'
+
+Note that the forked repo is a concept unique to Github, not Git itself -- it exists because Github accounts, repos, etc exist (more on this later). Here's a step-by-step for forking our internship repo, which is hosted on the AMNH main account:
+
+FORK THE MAIN REPO TO YOUR OWN:
+
+1) Navigate to the amnh/BridgeUP-STEM-Xiao repo on Github. 
+2) Click 'Fork,' in the top right corner of the screen. 
+3) You're done! Now, if you look at your own account, you'll see that a copy of the internship repo is living there. 
+
+
+CLONE THE FORK TO YOUR COMPUTER:
+Remember how you cloned the main repo directly to your computer for exquisite corpse? This is essentially the same idea -- only, this time, we're cloning the fork we just made instead of the main repo. 
+
+1) In your own Github account, navigate to the fork you just made. 
+2) Click 'Clone or download' (the green button) and copy the URL 
+3) Open Terminal and navigate to the directory where you've been keeping your code for internships. 
+4) Once you're there, type 'git clone <the URL you copied earlier>'
+
+
+CREATE A REMOTE UPSTREAM:
+1) You should still have the URL you copied from the original internship directory on your clipboard. 
+2) Now, navigate to the directory on your computer where you cloned your fork and type 'git remote -v'. You should see the current remote repo for your fork. It should look like this: https://github.com/YOUR_USERNAME/YOUR_FORK.git
+3) Now, type 'git remote add upstream <URL to main internship repo>'. <- This is the repo hosted on the AMNH account! Now, you'll be able to pull new updates from the main repo! We'll pull new updates from the main repo at the start of each internship session.
+
+
+SYNC YOUR FORK WITH REMOTE:
+1) Navigate to your local copy of the internship directory. Once there, type 'git fetch upstream'. You'll see Git fetching all updates from the main repo. 
+2) Checkout your fork's local master branch by typing 'git checkout master'. Now, you're on master!
+3) To merge changes on your forked master branch with updates from upstream/master, type 'git merge upstream/master'. You're all set!
+
+We'll be pushing our changes to our local forks at the end of each internship session!
+
+
+
+
