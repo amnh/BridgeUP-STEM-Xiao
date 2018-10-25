@@ -1,1 +1,9 @@
+Once upon a time, in the Museum of Natural History, all the way on the 5th floor, there was a room full of the worlds deadliest spiders. only one person in the museum had the keys for this room, and he made sure that NO ONE else ever got hold of them. One day however, an angry customer decided to get revenge on the Museum. He was upset that he was not given a cupon for a free meal even though no one at the musuem gets those. So, after hearing about the infamous room full of spiders, he decided to steal an employees badge and use it to gain access to the fifth floor. Once on the fifth floor he dared to do what no one else did. 
+
+:wq
+
 start writing below! ===v
+
+# Add three to a certain number, and return that number. 
+def add_three(num):
+

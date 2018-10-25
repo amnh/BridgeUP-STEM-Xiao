@@ -5,7 +5,7 @@
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)
                                             
 
-...we (Fani, Mercer, and I) are excited to explore the world of black coral mitogenomes with you. Before we take a deep dive (pun totally intended) into deep sea evolutionary biology, let's do a review of Github workflows. If you're reading this, you've already successfully cloned and navigated to this directory. 
+…we (Fani, Mercer, and I) are excited to explore the world of black coral mitogenomes with you. Before we take a deep dive (pun totally intended) into deep sea evolutionary biology, let's do a review of Github workflows. If you're reading this, you've already successfully cloned and navigated to this directory. 
 
 We'll review merge conflict resolution, updating and writing to files, and committing changes with a game that comes to us from the Surrealists -- Exquisite Corpse! 
 
@@ -46,4 +46,4 @@ In your pairs, find the six story files in the Week-1 directory. Let me know whe
                                    **(((#                                      
                                     *(((#                                      
                                     */((,                                      
-                                    */((                  
+                                   */((                  
