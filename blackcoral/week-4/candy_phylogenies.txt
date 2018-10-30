@@ -1,0 +1,33 @@
+  ___  ___  ___  ___  ___.---------------.
+.'\__\'\__\'\__\'\__\'\__,`   .  ____ ___ \
+|\/ __\/ __\/ __\/ __\/ _:\   |`.  \  \___ \
+ \\'\__\'\__\'\__\'\__\'\_`.__|""`. \  \___ \
+  \\/ __\/ __\/ __\/ __\/ __:                \
+   \\'\__\'\__\'\__\ \__\'\_;-----------------`
+    \\/   \/   \/   \/   \/ :                 |
+     \|______________________;________________|
+
+|--------------------|
+| Candy phylogenies! |
+|--------------------|
+
+The end goal of our internship is a phylogeny of corals/anemones, but that doesn't mean we can't get some additional practice in the meantime! In the spirit of the season, we'll be classifying and tracking the evolution of a familiar family of things -- candy! 
+
+A phylogenetic tree traditionally classifies organisms by their morphologies, i.e., their physical appearances. Organisms that are clustered more closely together are more physically similar. Organisms on longer branches have evolved more quickly than their counterparts. At each fork in the tree, each organism/group of organisms has some characteristic that distinguishes them from all other organisms on other branches of the split. 
+
+For example, in the tree below, 'Vertebrates' branches off into 'Fish' and 'Birds' -- we might say that all organisms on the upper branch (under and including 'Fish') have fins, and all organisms on the lower branch (under and including 'Birds') have feathers. 
+
+On the 'Fish' branch, we can make a further distinction between fish with lungs (yes, they do exist!) and fish with gills. NOTE: These characteristics are cumulative -- so any organism falling under 'Lungfish' 1) is a vertebrate; 2)  has fins; and 3) has lungs. 
+
+
+						    |---------- Lungfish
+	       |---------------- Fish --------------|
+	       |				    |---------- Shark
+Vertebrates ---|
+	       |---------------- Birds 
+
+
+Now, think: How can we use these phylogenies to classify sweets? What characteristics can be used to make broad vs. finer distinctions? 
+
+Jot down your ideas here, if you'd like! ----------------------------------------------------------------
+
