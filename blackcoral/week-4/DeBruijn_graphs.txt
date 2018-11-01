@@ -1,0 +1,16 @@
+
+DeBruijn Graphs -- the better way to assemble!
+
+Adapted from https://www.cs.jhu.edu/~langmea/resources/lecture_notes/assembly_dbg.pdf
+
+
+You've just seen firsthand that brute-force assembly algorithms can be pretty time-expensive. Surely, there's a better way to assemble DNA? 
+
+There is, as it turns out! Enter De Bruijn graphs. They're a graphical representation of the fragments you're interested in assembling. 
+
+The basic gist of it: you separate your fragments into (k-1)-mers (i.e., nucleotide fragments of length k-1); each of these fragments is a node in your graph. Following, fragments with (k-2) overlapping base pairs are connected with an edge. This edge represents the k-mer that results when these two (k-2)-mers are aligned. As an example, consider two 4-mers ATGC and TGCC. We can align both of these over the subsequence TGC such that the contig that results is ATGCC, of length 5. 
+
+Try your own hand at building a De Bruijn graph representation of a string of your choice. I'd recommend that you choose a string with some amount of repetition ('a long, long time ago, in a galaxy far away...') to see how this affects your construction. 
+
+There's a handy graph-construction tool here: http://graphonline.ru/en/
+Be sure to check out the Eulerian walk algorithm when you're done!
