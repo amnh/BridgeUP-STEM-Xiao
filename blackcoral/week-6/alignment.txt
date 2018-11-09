@@ -1,0 +1,18 @@
+ATCGATCGATCGTACGTACGTAC...
+ATCGATCCTCTGTACGTACCTAC...
+ATGGATCCTCTCTACGTTCCTAC...
+                  .
+   .. ............;;.
+    ..::::::::::::;;;;.
+  . . ::::::::::::;;:'
+                  :'
+
+
+We've discussed assembly -- not it's on to alignment! 
+
+In order to build a tree, we need to make comparisons. Having just discussed how computationally expensive it can be to smooth two contigs into one, you can guess at how time-consuming it must be to comparison thousand-base pair sequences to one another.
+
+Fortunately for us, there's BLAST, an alignment algorithm that does the heavy lifting for us. Even more luckily for us, Biopython has lots of cool built-in functions that talk to BLAST directly! 
+
+We'll be exploring these functions this week as we scour GenBank for black coral genomes!
+
