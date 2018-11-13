@@ -13,25 +13,25 @@ Jot down some of your own goals here:
 
 Below, you'll find a week-by-week breakdown of our work. 
 
-Week 1: Github Essentials
+[__Week 1: Github Essentials__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-1)
 - played a collaborative story-writing game called Exquisite Corpse to practice git pulling, pushing, and text-editing on the command line
 - learned some nifty new Unix commands and shortcuts!
 
-Week 2: DNA Detectives
+[__Week 2: DNA Detectives__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-2)
 - learned about some common features of noisy biological data
 - intro to a new Python package, BioPython!
 
-Week 3: Data Cleaning
+[__Week 3: Data Cleaning__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-3)
 - began writing our own functions to solve the noisy data problems we encountered last week 
 
-Week 4: Genomes, Assemble!
+[__Week 4: Genomes, Assemble!__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-4)
 - discussed the process of genome assembly through a hands-on 'assembly' of familiar and less-familiar sets of song lyrics (context is important!) 
 - tried our hand at building trees with a candy phylogeny (happy Halloween!)
 
-Week 5: Assembly Algorithms (short week)
+[__Week 5: Assembly Algorithms (short week)__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-5)
 - on Thursday, worked on writing our own brute-force algorithms to align two nucleotide contigs. 
 - also discussed big-O notation, algorithmic efficiency, and some common algorithmic problems (e.g., sorting, traveling salesman)
 
-Week 6: Assembly cont'd, beginning Alignment
+[__Week 6: Assembly cont'd, beginning Alignment__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-6)
 
 
