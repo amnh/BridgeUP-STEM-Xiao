@@ -1,0 +1,61 @@
+
+                    /\
+                   //\\
+                  ||##||           Houston, we have BLAST off! 
+                 //##mm\\          
+                //##*mmm\\
+               //###**mmm\\
+              //###***nmmm\\
+             //####***@nmmm\\
+             ||####***@nnmm||
+             ||####**@@@nnm||
+             |______________|
+             |  #coralcrew  |
+              \____________/
+               |          |
+              /|    /\    |\
+             /_|    || /\ |_\
+               |      DNA |
+               |       \/ |
+               |          |
+              /|    /\    |\
+             / |    ||    | \
+            /  |    ||    |  \
+           /  /\    ||    /\  \
+          |__/  \   ||   /  \__|
+            /____\      /____\
+            |    |      |    |
+            |    |______|    |
+            |    | /--\ |    |
+            |____|/----\|____|
+             \||/ //##\\ \||/
+             /##\//####\\/##\
+            //##\\/####\//##\\
+           ||/::\||/##\||/::\||
+           \\\''///:**:\\\''///
+            \\\///\::::/\\\///
+             \\//\\\::///\\//
+              \/\\\\..////\/
+                 \\\\////
+                  \\\///
+                   \\//
+                    \/
+                    
+                    
+ Before we can build a tree, we need to make some comparisons (how else will we know how our distinct species of corals and anemones relate to one another -- or, even, if what we have on our hands is, in fact, a coral or anemone? 
+ 
+ Last week, you saw how time-consuming a brute-force algorithm for genome assembly could be -- imagine how long it'd take to compare a thousand sequences, each a thousand base pairs long!
+ 
+ Luckily, some very smart people have spent lots of time thinking about these problems, and the solution they've come up with is the BLAST (basic local alignment search tool) algorithm.  
+ 
+ Here's how it works: 
+ 
+ 1. Remove all low-complexity regions (we touched upon this briefly in our data cleaning module!
+ 
+ 2. Make a k-letter word list of the query sequence.
+ 
+ 3. List all possible pairwise matches (taking into account the weightings of particular matches). We assign matches based on a neighborhod threshold matching score, T. 
+ 
+ 4. Place remaining matches into a search tree. 
+ 
+ 5. Run a more time-consuming gapped match alignment on these remaining words. 
