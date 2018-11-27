@@ -33,5 +33,14 @@ Below, you'll find a week-by-week breakdown of our work.
 - also discussed big-O notation, algorithmic efficiency, and some common algorithmic problems (e.g., sorting, traveling salesman)
 
 [__Week 6: Assembly cont'd, beginning Alignment__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-6)
+- made our own DeBruijn graphs with texts of our choice!
+- learned about the bridges of Konigsberg problem and Eulerian walks
+- began working with BLAST for sequence lookups
 
+[__Week 7: Meeting Mercer__]
+- short week -- on Tuesday, we spoke to Mercer about his research and got a tour of the wet collections -- saw a giant squid, a giant aquatic isopod!
+
+[__Week 8: Finishing Assembly, More Alignment__]
+- we'll present our solutions to the assembly algorithm (at long last!)
+- more work BLAST with Biopython, intro to distance matrices
 
