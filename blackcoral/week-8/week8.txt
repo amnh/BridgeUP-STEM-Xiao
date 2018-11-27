@@ -1,0 +1,6 @@
+This week, we will:
+
+- review our solutions to the assembly algorithm!
+- practice using BLAST and Clustal Omega to find matching sequences and align multiple sequences. Use Biopython to convert file formats
+- review/write our sequence similarity functions -- how do they compare to Clustal's built-in function?
+- start working with distance matrices -- intro to genetic distance!
