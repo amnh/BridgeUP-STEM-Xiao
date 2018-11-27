@@ -37,10 +37,10 @@ Below, you'll find a week-by-week breakdown of our work.
 - learned about the bridges of Konigsberg problem and Eulerian walks
 - began working with BLAST for sequence lookups
 
-[__Week 7: Meeting Mercer__]
+[__Week 7: Meeting Mercer__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-7)
 - short week -- on Tuesday, we spoke to Mercer about his research and got a tour of the wet collections -- saw a giant squid, a giant aquatic isopod!
 
-[__Week 8: Finishing Assembly, More Alignment__]
+[__Week 8: Finishing Assembly, More Alignment__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-8)
 - we'll present our solutions to the assembly algorithm (at long last!)
 - more work BLAST with Biopython, intro to distance matrices
 
