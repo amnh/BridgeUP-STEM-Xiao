@@ -42,5 +42,8 @@ Below, you'll find a week-by-week breakdown of our work.
 
 [__Week 8: Finishing Assembly, More Alignment__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-8)
 - we'll present our solutions to the assembly algorithm (at long last!)
-- more work BLAST with Biopython, intro to distance matrices
+- more work on BLAST with Biopython, intro to distance matrices
 
+[__Week 9: More Alignment and Distance Matrices__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-8)
+- building distance matrices from alignment files (and, from distance matrices, building trees!)
+- start thinking about Dec. 20 mid-year presentations
