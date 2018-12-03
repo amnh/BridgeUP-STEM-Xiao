@@ -1,0 +1,1 @@
+Add all .phy and .fasta files here! Remember to use relative paths to reference this directory in your jupyter notebook!
