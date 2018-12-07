@@ -1,0 +1,5 @@
+We've spent the past three months writing prototypical functions for smaller datasets -- now, it's time to use what we've learned on larger, real-life datasets. 
+
+Each group has received a set of three FASTA files. There are six sequences in each FASTA file, and each file represents the sequence data for a single gene. 
+
+You'll be cleaning, translating, aligning, and eventually building trees from these sequences! Get excited. 
