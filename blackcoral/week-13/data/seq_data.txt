@@ -1,0 +1,8 @@
+You should've been assigned three of the files in this directory to work on. 
+
+A few notes:
+
+- Each file corresponds to sequence data from a different organism. 
+- Each organism's sequence data contains multiple genes -- we don't know which genes are contained within each file, however! 
+- You can see each organism's name! 
+- Open each file -- do you notice any anomalies immediately? What are they? 
