@@ -13,6 +13,10 @@ Jot down some of your own goals here:
 
 Below, you'll find a week-by-week breakdown of our work. 
 
+[__Week 10: More Alignment and Distance Matrices__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-10)
+- creating input files for tree construction!
+- preparing for next week's mid-year presentation
+
 [__Week 9: More Alignment and Distance Matrices__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-9)
 - building distance matrices from alignment files (and, from distance matrices, building trees!)
 - start thinking about Dec. 20 mid-year presentations
