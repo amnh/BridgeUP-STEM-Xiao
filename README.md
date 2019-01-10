@@ -13,9 +13,24 @@ Jot down some of your own goals here:
 
 Below, you'll find a week-by-week breakdown of our work. 
 
+[__Week 13: The Whole Pipeline__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-13)
+- reviewing the pipeline we've built over the past three months, from raw data to tree
+- starting an exploratory data analysis of our raw FASTA files
+
+
+[__Week 12: New Year, New Tree__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-12)
+- Learning about the variety of tree-drawing methods available
+- Using Phylip to build some phylogenetic trees from our distance matrix input files
+
+
+[__Week 11: Presentations and break__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-11)
+- presentations -- great job, coral crew!
+
+
 [__Week 10: More Alignment and Distance Matrices__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-10)
 - creating input files for tree construction!
 - preparing for next week's mid-year presentation
+
 
 [__Week 9: More Alignment and Distance Matrices__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-9)
 - building distance matrices from alignment files (and, from distance matrices, building trees!)
