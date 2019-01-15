@@ -1,0 +1,10 @@
+We've discussed the importance of recognizing premature stop codons in our sequence data -- they might be indicative of
+a number of issues, including 1) incorrect reading frame, 2) the actual end of a gene, or 3) incorrect translation code. 
+
+We'll be tackling number three this week -- how, exactly, do we account for the fact that different organisms are simply 
+built differently? In some ways, it makes sense that the nucleotides that code for one amino acid in a sponge might code 
+for something else in a human. 
+
+There are standardized tables for different groups of organisms. You might recall that corals and anemones use table 4,
+the Mold and Protozoa table. You'll be reading translation information from this table and putting it into a data dictionary,
+which you'll then use to translate your raw nucleotide sequence files. 
