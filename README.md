@@ -13,6 +13,10 @@ Jot down some of your own goals here:
 
 Below, you'll find a week-by-week breakdown of our work. 
 
+[__Week 14: Genetic Codes and Translation__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-14)
+- learning about different types of genetic codes
+- translating our raw nucleotide data files using Python dictionaries
+
 [__Week 13: The Whole Pipeline__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-13)
 - reviewing the pipeline we've built over the past three months, from raw data to tree
 - starting an exploratory data analysis of our raw FASTA files
