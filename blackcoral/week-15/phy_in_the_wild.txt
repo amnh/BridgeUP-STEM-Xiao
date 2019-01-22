@@ -1,0 +1,20 @@
+We've done lots of work on phylogenetics in theory -- be that mathematics, computer science theory, or candy phylogenies -- 
+so it's high time we observed some principles of phylogenetics at work 'in the wild.' We'll be applying our knowledge of
+phylogenetic terminology to a scavenger hunt in the museum; later, we'll hear about Dr. Nathalie Goodkin's work, which uses 
+coral geochemistry to reconstruct ocean-atmosphere interactions. 
+
+Check below for a bio of Dr. Goodkin: 
+
+Dr. Goodkin’s research is focused on understanding and using coral geochemistry to reconstruct ocean-atmosphere interactions, 
+climate behavior, and pollution histories over the past 500 years. 
+
+Her team uses paleoclimate proxies in coral skeleton (e.g., stable isotopes) to reconstruct the climate of the last 500 years.  
+The group utilizes coral skeletons as recorders of environmental conditions, providing insights into climate behavior on 
+seasonal to decadal time scales. Dr. Goodkin strives to improve our understanding of the influences biological calcification 
+on chemical fossils to improve the reliability of biogenic carbonate reconstructions.
+
+In the past five years, Dr. Goodkin has focused on understanding how changes to mean sea surface temperature, salinity and 
+circulation interact with the Southeast Asian Monsoon system. As warm water from the Pacific Ocean is pushed through the 
+marginal seas of Southeast Asia towards the Indian Ocean, heat is transferred from the ocean to land driving precipitation 
+patterns. Understanding how these systems have changed and interacted in the past will be critical to predicting climate in 
+the future. 
