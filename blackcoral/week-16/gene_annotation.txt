@@ -1,0 +1,21 @@
+Now that you've got your sequence files translated, we can make some sense of what we're looking at. 
+
+Examine the translated sequence -- what do you see? 
+
+You should notice at least three stop codons, evidence of locations where a gene ends (remember that these are encoded as TAA 
+or TAG for corals and anemones). This is because there are three genes within each FASTA sequence belonging to each distinct 
+organism. 
+
+You know how to BLAST sequences to identify the organism from which a nucleotide sequence might be derived -- but BLAST can
+also tell you the identity of the specific gene, too! Pretty cool. 
+
+BLAST each of the genes you've found in your sequence files -- which genes are they? For which organisms? 
+
+-----------------------------------------------------------------------------------------------------
+
+Next, we'll be visualizing some whole genome sequences -- get excited! In our data-cleaning module, we discussed the importance 
+of AT and GC content for determining the presence of coding regions. Turns out, there's a pretty cool way to visualize this
+content. We'll be building a simple DNA Walker to examine the contents of our sequences. It works like this: we start at some 
+coordinate point (usually (0, 0), though this isn't crucial) and then walk north, south, east, or west depending on what 
+nucleotide we've just seen. The result -- a rough sketch of the nucleotide content of our genome, and a good look at some of 
+the overarching trends in AT/GC richness in our dataset. 
