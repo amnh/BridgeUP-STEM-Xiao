@@ -1,0 +1,9 @@
+Now that we've explored our data in depth, it's time for some in-depth analyses! Some of the analyses we'll be doing in the
+coming weeks include: 
+
+- purine and pyrimidine content
+- AG and CT skew values
+- Kimura-2-parameter distances
+- threshold values for distinctions between family, order, species
+- plotting some of this data in R or Python!
+- cord diagrams and other cool visuals!
