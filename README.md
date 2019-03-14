@@ -13,6 +13,16 @@ Jot down some of your own goals here:
 
 Below, you'll find a week-by-week breakdown of our work. 
 
+
+[__Week 17: ATCG Analysis__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-17)
+- AT and GC skew analysis for leading/lagging strand identification
+- purine and pyrimidine skew analysis for heavy/light strand identification
+
+
+[__Week 16: Visualizing Genomes__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-16)
+- building our own DNA walk visualizers using Python's tk package
+
+
 [__Week 15: Phylogenetics in the Wild__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-15)
 - finishing translations of our data files
 - exploring some well-known phylogenetics concepts, as found in the museum!
