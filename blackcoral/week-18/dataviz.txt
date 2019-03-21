@@ -1,0 +1,3 @@
+Now that we've got all this data, how can we best present it to an audience, whether technical or non-technical? 
+
+So much of science is communicating results, and we want to do so in a way that's informative, accurate, and accessible. 
