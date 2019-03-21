@@ -13,6 +13,10 @@ Jot down some of your own goals here:
 
 Below, you'll find a week-by-week breakdown of our work. 
 
+[__Week 18: Beginning Data Visualization__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-18)
+- Reviewing Python Pandas dataframes
+- Getting our feet wet with some sunspot data! Graphing and binning datapoints. 
+
 
 [__Week 17: ATCG Analysis__](https://github.com/amnh/BridgeUP-STEM-Xiao/tree/master/blackcoral/week-17)
 - AT and GC skew analysis for leading/lagging strand identification
